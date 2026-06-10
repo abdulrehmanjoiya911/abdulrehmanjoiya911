@@ -15,7 +15,7 @@ I am currently pursuing a Bachelor's degree in Computer Science and enjoy buildi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdulrehmanjoiya911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
